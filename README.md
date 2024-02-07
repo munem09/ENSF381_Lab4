@@ -1,1 +1,8 @@
-# ENSF381_Lab4
+# Project Overview
+-In this lab we are working with html and CSS files to create a webstise containing pictures and description.
+-We built a responsive web design where it changes its resolution according to the screen size
+-doe the second exercise we worked with flex
+## Team Members
+|M Munem Morshed
+|Saifeldin Youssef
+## Screenshots
