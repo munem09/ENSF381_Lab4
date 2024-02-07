@@ -3,6 +3,8 @@
 -We built a responsive web design where it changes its resolution according to the screen size
 -doe the second exercise we worked with flex
 ## Team Members
-|M Munem Morshed
-|Saifeldin Youssef
+|       Name      |
+|-----------------|
+| M Munem Morshed |
+| Saif Youssef    |
 ## Screenshots
